@@ -1,11 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="88a7bcca-6623-4bf2-9445-bd86b355ae43" name="Changes" comment="" />
+    <list default="true" id="88a7bcca-6623-4bf2-9445-bd86b355ae43" name="Changes" comment="23commit">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_8_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System.iml" beforeDir="false" afterPath="$PROJECT_DIR$/System.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/PetController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/PetController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/Validator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/Validator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exceptions/UncorrectDataException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exceptions/UncorrectDataException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Creator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Creator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Hamster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Hamster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/PetCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/PetCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/PetType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/PetType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Resources/database.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/database.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Services/PetRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Services/PetRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserInterface/ConsoleMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserInterface/ConsoleMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserInterface/ConsoleView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserInterface/ConsoleView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserInterface/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserInterface/View.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -16,13 +54,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "onboarding.tips.debug.path": "C:/Users/Public/Code/Rabota/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Public/Code/Rabota/src/lib/mysql-connector-j-8.1.0.jar&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Public/Code/Rabota/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="System" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,17 +90,18 @@
       <option name="presentableId" value="Default" />
       <updated>1696269619177</updated>
     </task>
+    <task id="LOCAL-00001" summary="23commit">
+      <created>1696453090840</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696453090840</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="23commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="23commit" />
   </component>
 </project>

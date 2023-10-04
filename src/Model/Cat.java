@@ -1,2 +1,7 @@
-package Model;public class Cat {
+package Model;
+
+public class Cat extends Pet{
+
+    public Cat() {
+    }
 }
