@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88a7bcca-6623-4bf2-9445-bd86b355ae43" name="Changes" comment="23commit">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_8_1_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/System.iml" beforeDir="false" afterPath="$PROJECT_DIR$/System.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/Counter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/PetController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/PetController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/Validator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/Validator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exceptions/UncorrectDataException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exceptions/UncorrectDataException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Creator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Creator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Hamster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Hamster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Pet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/PetCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/PetCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/PetType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/PetType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Resources/database.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/database.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/PetRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Services/PetRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UserInterface/ConsoleMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserInterface/ConsoleMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UserInterface/ConsoleView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserInterface/ConsoleView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UserInterface/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserInterface/View.java" afterDir="false" />
-    </list>
+    <list default="true" id="88a7bcca-6623-4bf2-9445-bd86b355ae43" name="Changes" comment="23commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="2WDaU7U7BNF6N3NOK538E9W11Ko" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -97,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696453090840</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="23commit">
+      <created>1696453352911</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696453352911</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
